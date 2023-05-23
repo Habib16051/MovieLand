@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Dashboard
+![image](https://github.com/Habib16051/MovieLand/assets/39822204/e66ea967-5e85-41f6-85e5-410b165301b9)
+
 ## Available Scripts
 
 In the project directory, you can run:
